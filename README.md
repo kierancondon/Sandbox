@@ -1,5 +1,6 @@
 # Sandbox
-A portfolio of my iPython notebooks for learning and teaching various concepts
+#####What is in this sandbox?
+A portfolio of my iPython notebooks for learning and teaching various concepts:
 
 * A demonstration of a Monte Carlo method to price vanilla call options using Python and the equality with the Black Scholes closed form solution.
 * A demonstration of Gradient Descent to execute a linear regression
